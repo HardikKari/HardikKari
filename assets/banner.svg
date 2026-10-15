@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
+  <title id="title">Hardik Kari — build, break, defend</title>
+  <desc id="desc">A dark cyber game interface banner with a green status indicator and pixel accents.</desc>
+  <rect width="900" height="250" rx="18" fill="#0b1019"/>
+  <rect x="12" y="12" width="876" height="226" rx="12" fill="#111a28" stroke="#39d98a" stroke-width="2"/>
+  <path d="M12 58h876M38 98h824M38 194h824" stroke="#274257" stroke-width="2"/>
+  <circle cx="42" cy="36" r="7" fill="#ff6b6b"/><circle cx="64" cy="36" r="7" fill="#ffd166"/><circle cx="86" cy="36" r="7" fill="#39d98a"/>
+  <text x="120" y="43" fill="#9bb6c8" font-family="monospace" font-size="17">PROFILE.EXE / HARDIKKARI</text>
+  <text x="40" y="142" fill="#f3f7fb" font-family="monospace" font-size="47" font-weight="bold">HARDIK KARI</text>
+  <text x="42" y="178" fill="#39d98a" font-family="monospace" font-size="20">BUILD  /  BREAK  /  DEFEND_</text>
+  <rect x="683" y="117" width="165" height="56" rx="7" fill="#173328" stroke="#39d98a"/>
+  <circle cx="707" cy="145" r="7" fill="#39d98a"/>
+  <text x="724" y="151" fill="#c8f8df" font-family="monospace" font-size="17">SYSTEM READY</text>
+  <text x="41" y="222" fill="#8ca8ba" font-family="monospace" font-size="15">GAME DEV × CYBERSECURITY</text>
+  <text x="755" y="222" fill="#8ca8ba" font-family="monospace" font-size="15">LVL ∞</text>
+</svg>

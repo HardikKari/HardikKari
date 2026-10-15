@@ -1,27 +1,50 @@
 <div align="center">
 
-# Hi, I'm Hardik Kari 👋
+![Hardik Kari — build, break, defend](assets/banner.svg)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile;I+love+building+and+learning;Explore+my+projects+below" alt="Animated introduction" />
+### GAME DEV × CYBERSECURITY × CREATIVE ENGINEERING
+
+[🎮 Play a project](https://hardikkari.github.io/recall/) · [🛠 Explore repositories](https://github.com/HardikKari?tab=repositories) · [📡 Recent builds](#-live-feed)
 
 </div>
 
-## Projects
+**PLAYER:** Hardik Kari · **MODE:** Building, learning, securing · **LOADOUT:** JS / TS / Java / C# / Python
 
-### Campus Flow
-LMS-independent college planner that turns class schedules and PDF or DOCX syllabi into an organized semester with courses, deadlines, tasks, study plans, calendar events, and reminders. Currently in early private beta.
+## 🗺 Mission select
 
-**Key Technologies:** TypeScript, React, Next.js, Vite, Cloudflare Workers, Cloudflare D1, Drizzle ORM, PDF.js, Mammoth, Google OAuth, Progressive Web App (PWA)
+| Mission | What you can explore | Stack |
+| :--- | :--- | :--- |
+| **[recall](https://github.com/HardikKari/recall)** · [Play ↗](https://hardikkari.github.io/recall/) | Offline flashcards with SM-2 spaced repetition, keyboard controls, and note-to-card creation. | Vanilla JS · HTML · CSS |
+| **[UNITE](https://github.com/HardikKari/unite)** | A JavaFX community calendar with event RSVPs and AI-assisted event creation. | Java · JavaFX · Maven |
+| **[318 Roadrunner](https://github.com/HardikKari/318-roadrunner)** | A three-lane endless runner. | Unity · C# |
+| **Campus Flow** | A college planner that turns schedules and syllabi into courses, deadlines, and study plans. Early private beta. | TypeScript · React · Cloudflare |
 
-### recall
-Browser-based spaced-repetition flashcard app. Users can create decks manually or paste and upload notes to generate cards automatically. It schedules reviews with the SM-2 algorithm, supports keyboard controls, works offline, and keeps the user’s data in their browser without requiring an account or server.
+<details>
+<summary><b>🎮 Open the game-dev inventory</b></summary>
 
-**Key Technologies:** HTML, CSS, vanilla JavaScript, ES modules, localStorage, SM-2 spaced-repetition algorithm, custom browser-based test runner  
-**Repository:** [GitHub](https://github.com/HardikKari/recall)  
-**Live Demo:** [recall](https://HardikKari.github.io/recall/)
+I'm interested in game feel, clear feedback, and systems that reward curiosity. **318 Roadrunner** is my public Unity/C# project; you can inspect the code from the mission board above.
 
-### unite
-Java desktop community-calendar app where residents can create, share, browse, and RSVP to local events. It also offers AI-assisted event creation: users describe an event in plain English, and OpenAI converts it into structured details for the user to review before saving.
+</details>
 
-**Key Technologies:** Java 21, JavaFX, Maven, JUnit 5, Gson, OpenAI API, PBKDF2 password hashing, local data persistence  
-*Originally developed as a CSE 1325 university OOP project by Hardik Kari and Rohith Tiruvaipati, it has since evolved into a graphical, persistent, and security-hardened application.*
+<details>
+<summary><b>🛡 Open the security inventory</b></summary>
+
+I like exploring how software fails and how to make it more resilient. In **UNITE**, that includes salted password hashing, user confirmation before AI-generated event details are saved, and a usable manual path when the AI service is unavailable.
+
+</details>
+
+## 📡 Live feed
+
+This panel refreshes daily from my public GitHub repositories. Select a build to inspect its code.
+
+<!-- RECENT_BUILDS_START -->
+- [318-roadrunner](https://github.com/HardikKari/318-roadrunner) — A three-lane endless runner built with Unity and C#.
+- [recall](https://github.com/HardikKari/recall) — Spaced repetition flashcards in vanilla JavaScript — no framework, no build step. SM-2 scheduling, paste or upload notes to generate decks.
+- [unite](https://github.com/HardikKari/unite) — Explore the source code.
+<!-- RECENT_BUILDS_END -->
+
+<div align="center">
+
+> choose a mission · inspect the source · keep building_
+
+</div>
