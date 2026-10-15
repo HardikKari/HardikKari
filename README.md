@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hardik Kari — Jujutsu Kaisen-inspired developer domain](assets/banner.svg)
+![Hardik Kari — Jujutsu Kaisen-inspired developer domain](assets/domain-banner.svg)
 
 # Welcome to my domain 👋
 
@@ -33,7 +33,7 @@ Right now I'm also working on **Campus Flow**, an early private-beta college pla
 </td>
 <td width="42%" align="center" valign="middle">
 
-![Illustration of a game controller, terminal, and shield](assets/about.svg)
+![Illustration of a game controller, terminal, and shield](assets/domain-about.svg)
 
 </td>
 </tr>
@@ -43,7 +43,7 @@ Right now I'm also working on **Campus Flow**, an early private-beta college pla
 
 <div align="center">
 
-![Live public GitHub stats for Hardik Kari](assets/stats.svg)
+![Live public GitHub stats for Hardik Kari](assets/domain-stats.svg)
 
 </div>
 
@@ -53,7 +53,7 @@ The stats card is generated from my public repositories by the [profile update w
 
 <div align="center">
 
-![Map of Hardik Kari's featured work across games, web tools, desktop apps, and planning](assets/project-map.svg)
+![Map of Hardik Kari's featured work across games, web tools, desktop apps, and planning](assets/domain-project-map.svg)
 
 </div>
 
@@ -68,7 +68,7 @@ The stats card is generated from my public repositories by the [profile update w
 
 <div align="center">
 
-![Four featured projects across game development, learning tools, community apps, and student planning](assets/project-mix.svg)
+![Four featured projects across game development, learning tools, community apps, and student planning](assets/domain-project-mix.svg)
 
 </div>
 

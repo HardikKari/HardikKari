@@ -10,7 +10,7 @@ from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
 README = ROOT / "README.md"
-STATS = ROOT / "assets" / "stats.svg"
+STATS = ROOT / "assets" / "domain-stats.svg"
 START = "<!-- RECENT_BUILDS_START -->"
 END = "<!-- RECENT_BUILDS_END -->"
 USER = "HardikKari"
