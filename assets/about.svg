@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="340" viewBox="0 0 480 340" role="img" aria-labelledby="title desc">
+<title id="title">Games and security illustration</title><desc id="desc">A controller, terminal, and shield on a dark cyber-themed card.</desc>
+<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202849"/><stop offset="1" stop-color="#102d36"/></linearGradient></defs>
+<rect width="480" height="340" rx="18" fill="#0d1117"/><rect x="10" y="10" width="460" height="320" rx="14" fill="url(#panel)" stroke="#5f67d9" stroke-width="2"/>
+<path d="M32 284h416M46 298h140M300 298h120" stroke="#3b5574" stroke-width="2"/>
+<rect x="66" y="65" width="260" height="160" rx="9" fill="#0d1117" stroke="#6c75ed" stroke-width="4"/>
+<rect x="81" y="80" width="230" height="130" fill="#111827"/>
+<circle cx="97" cy="96" r="4" fill="#fd7979"/><circle cx="111" cy="96" r="4" fill="#f6c76b"/><circle cx="125" cy="96" r="4" fill="#63dbad"/>
+<g font-family="monospace" font-size="13"><text x="97" y="130" fill="#73ddc4">&gt; build --play</text><text x="97" y="154" fill="#c5ccff">systems online</text><text x="97" y="178" fill="#73ddc4">&gt; audit --safe</text></g>
+<path d="M137 225h120l18 25H118z" fill="#465585"/><rect x="105" y="250" width="185" height="12" rx="6" fill="#6c75ed"/>
+<path d="M365 102l57 22v48c0 44-27 68-57 82-30-14-57-38-57-82v-48z" fill="#1b796f" stroke="#77e1c9" stroke-width="5"/>
+<path d="M341 173l17 17 34-39" fill="none" stroke="#e9fff7" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#978bff"><rect x="63" y="26" width="12" height="12"/><rect x="83" y="26" width="12" height="12"/><rect x="397" y="278" width="12" height="12"/><rect x="417" y="278" width="12" height="12"/></g>
+</svg>

@@ -1,41 +1,118 @@
 <div align="center">
 
-![Hardik Kari — build, break, defend](assets/banner.svg)
+![Hardik Kari — game developer and security-minded builder](assets/banner.svg)
 
-### GAME DEV × CYBERSECURITY × CREATIVE ENGINEERING
+# Hi there, I'm Hardik 👋
 
-[🎮 Play a project](https://hardikkari.github.io/recall/) · [🛠 Explore repositories](https://github.com/HardikKari?tab=repositories) · [📡 Recent builds](#-live-feed)
+### Game developer · Security-minded builder · Creative engineer
+
+[![Play recall](https://img.shields.io/badge/PLAY_RECALL-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://hardikkari.github.io/recall/)
+[![Explore projects](https://img.shields.io/badge/EXPLORE_PROJECTS-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HardikKari?tab=repositories)
+[![Latest builds](https://img.shields.io/badge/LATEST_BUILDS-1E9E8F?style=for-the-badge&logo=githubactions&logoColor=white)](#-latest-builds)
 
 </div>
 
-**PLAYER:** Hardik Kari · **MODE:** Building, learning, securing · **LOADOUT:** JS / TS / Java / C# / Python
+---
 
-## 🗺 Mission select
+## About me
 
-| Mission | What you can explore | Stack |
-| :--- | :--- | :--- |
-| **[recall](https://github.com/HardikKari/recall)** · [Play ↗](https://hardikkari.github.io/recall/) | Offline flashcards with SM-2 spaced repetition, keyboard controls, and note-to-card creation. | Vanilla JS · HTML · CSS |
-| **[UNITE](https://github.com/HardikKari/unite)** | A JavaFX community calendar with event RSVPs and AI-assisted event creation. | Java · JavaFX · Maven |
-| **[318 Roadrunner](https://github.com/HardikKari/318-roadrunner)** | A three-lane endless runner. | Unity · C# |
-| **Campus Flow** | A college planner that turns schedules and syllabi into courses, deadlines, and study plans. Early private beta. | TypeScript · React · Cloudflare |
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<details>
-<summary><b>🎮 Open the game-dev inventory</b></summary>
+I build software that people can actually use, then look closely at how it behaves under the hood. My public work spans a browser-based study tool, a Java desktop community app, and a Unity endless runner.
 
-I'm interested in game feel, clear feedback, and systems that reward curiosity. **318 Roadrunner** is my public Unity/C# project; you can inspect the code from the mission board above.
+- 🎮 **Game development:** systems, feedback, and playful interaction
+- 🛡️ **Security mindset:** safer defaults, resilient flows, and careful handling of user data
+- 🧩 **Product building:** useful tools with clear interfaces
 
-</details>
+Right now I'm also working on **Campus Flow**, an early private-beta college planner that organizes schedules, syllabi, deadlines, and study plans.
 
-<details>
-<summary><b>🛡 Open the security inventory</b></summary>
+</td>
+<td width="42%" align="center" valign="middle">
 
-I like exploring how software fails and how to make it more resilient. In **UNITE**, that includes salted password hashing, user confirmation before AI-generated event details are saved, and a usable manual path when the AI service is unavailable.
+![Illustration of a game controller, terminal, and shield](assets/about.svg)
 
-</details>
+</td>
+</tr>
+</table>
 
-## 📡 Live feed
+## GitHub stats
 
-This panel refreshes daily from my public GitHub repositories. Select a build to inspect its code.
+<div align="center">
+
+![Live public GitHub stats for Hardik Kari](assets/stats.svg)
+
+</div>
+
+The stats card is generated from my public repositories by the [profile update workflow](.github/workflows/update-profile.yml). GitHub's full contribution calendar is also available [on my profile](https://github.com/HardikKari#user-activity-overview).
+
+## Where my work lives
+
+<div align="center">
+
+![Map of Hardik Kari's featured work across games, web tools, desktop apps, and planning](assets/project-map.svg)
+
+</div>
+
+| Area | Explore |
+| :--- | :--- |
+| 🎮 Game development | [318 Roadrunner](https://github.com/HardikKari/318-roadrunner) |
+| 📚 Learning tools | [recall](https://github.com/HardikKari/recall) · [Play it](https://hardikkari.github.io/recall/) |
+| 🗓️ Community software | [UNITE](https://github.com/HardikKari/unite) |
+| 🧭 Student planning | Campus Flow · early private beta |
+
+## Featured project mix
+
+<div align="center">
+
+![Four featured projects across game development, learning tools, community apps, and student planning](assets/project-mix.svg)
+
+</div>
+
+Four projects are showcased here, one from each area. This chart groups the featured work; it does not estimate time spent.
+
+## Contribution activity
+
+My [GitHub contribution calendar](https://github.com/HardikKari#user-activity-overview) shows the full activity history. The live feed below highlights my most recently pushed public projects.
+
+## Featured projects
+
+### 🎮 318 Roadrunner
+
+A three-lane endless runner built with Unity and C#. This is the game-development side of my work: movement, timing, and quick feedback in a playable loop.
+
+[Explore the repository →](https://github.com/HardikKari/318-roadrunner)
+
+### 📚 recall
+
+An offline spaced-repetition flashcard app built with vanilla JavaScript. Create decks, paste or upload notes to generate cards, and review with keyboard controls. Its SM-2 scheduling keeps practice focused, and data stays in your browser without an account.
+
+[Play recall →](https://hardikkari.github.io/recall/) · [Explore the code →](https://github.com/HardikKari/recall)
+
+### 🗓️ UNITE
+
+A JavaFX community calendar for creating, browsing, and RSVPing to local events. It can turn a plain-language event idea into structured details for review before saving. The app uses salted password hashing and remains usable when AI assistance is unavailable.
+
+[Explore the repository →](https://github.com/HardikKari/unite)
+
+### 🧭 Campus Flow
+
+An early private-beta college planner that turns schedules and PDF or DOCX syllabi into an organized semester: courses, deadlines, tasks, study plans, calendar events, and reminders.
+
+## 🧰 Tech I use
+
+| Layer | Tools |
+| :--- | :--- |
+| Languages | JavaScript, TypeScript, Java, C#, Python |
+| Web | React, Next.js, Vite, HTML, CSS |
+| Games & desktop | Unity, JavaFX |
+| Data & services | Cloudflare Workers, Cloudflare D1, Drizzle ORM |
+| Product details | Offline-first interfaces, PWA patterns, PDF and document parsing |
+
+## 📡 Latest builds
+
+Updated daily from public GitHub repositories. Pick a project to inspect what changed recently.
 
 <!-- RECENT_BUILDS_START -->
 - [318-roadrunner](https://github.com/HardikKari/318-roadrunner) — A three-lane endless runner built with Unity and C#.
@@ -43,8 +120,19 @@ This panel refreshes daily from my public GitHub repositories. Select a build to
 - [unite](https://github.com/HardikKari/unite) — Explore the source code.
 <!-- RECENT_BUILDS_END -->
 
+<details>
+<summary><b>🕹️ Open the mission log</b></summary>
+
+- **Play:** try [recall](https://hardikkari.github.io/recall/) in your browser.
+- **Inspect:** browse the source for [318 Roadrunner](https://github.com/HardikKari/318-roadrunner), [recall](https://github.com/HardikKari/recall), or [UNITE](https://github.com/HardikKari/unite).
+- **Follow:** see new work on [my GitHub profile](https://github.com/HardikKari).
+
+</details>
+
+---
+
 <div align="center">
 
-> choose a mission · inspect the source · keep building_
+**BUILD · BREAK · LEARN · DEFEND**
 
 </div>

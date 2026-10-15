@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-labelledby="title desc">
+<title id="title">Featured project mix</title><desc id="desc">Four featured projects, one each in games, learning tools, community apps, and student planning.</desc>
+<rect width="1000" height="310" rx="18" fill="#0d1117"/>
+<circle cx="250" cy="155" r="102" fill="none" stroke="#252d43" stroke-width="48"/>
+<circle cx="250" cy="155" r="102" fill="none" stroke="#8c83ff" stroke-width="48" stroke-dasharray="154 487" transform="rotate(-90 250 155)"/>
+<circle cx="250" cy="155" r="102" fill="none" stroke="#58cdea" stroke-width="48" stroke-dasharray="154 487" transform="rotate(0 250 155)"/>
+<circle cx="250" cy="155" r="102" fill="none" stroke="#df88c6" stroke-width="48" stroke-dasharray="154 487" transform="rotate(90 250 155)"/>
+<circle cx="250" cy="155" r="102" fill="none" stroke="#69d6b8" stroke-width="48" stroke-dasharray="154 487" transform="rotate(180 250 155)"/>
+<circle cx="250" cy="155" r="71" fill="#0d1117"/>
+<text x="250" y="151" fill="#f5f7ff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="39" font-weight="bold">04</text>
+<text x="250" y="178" fill="#a9b9d1" text-anchor="middle" font-family="monospace" font-size="16">PROJECTS</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#eef2fb">
+<rect x="480" y="49" width="24" height="24" rx="4" fill="#8c83ff"/><text x="521" y="70">Game development · 1</text>
+<rect x="480" y="107" width="24" height="24" rx="4" fill="#58cdea"/><text x="521" y="128">Learning tools · 1</text>
+<rect x="480" y="165" width="24" height="24" rx="4" fill="#df88c6"/><text x="521" y="186">Community apps · 1</text>
+<rect x="480" y="223" width="24" height="24" rx="4" fill="#69d6b8"/><text x="521" y="244">Student planning · 1</text>
+</g>
+</svg>

@@ -1,16 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-labelledby="title desc">
-  <title id="title">Hardik Kari — build, break, defend</title>
-  <desc id="desc">A dark cyber game interface banner with a green status indicator and pixel accents.</desc>
-  <rect width="900" height="250" rx="18" fill="#0b1019"/>
-  <rect x="12" y="12" width="876" height="226" rx="12" fill="#111a28" stroke="#39d98a" stroke-width="2"/>
-  <path d="M12 58h876M38 98h824M38 194h824" stroke="#274257" stroke-width="2"/>
-  <circle cx="42" cy="36" r="7" fill="#ff6b6b"/><circle cx="64" cy="36" r="7" fill="#ffd166"/><circle cx="86" cy="36" r="7" fill="#39d98a"/>
-  <text x="120" y="43" fill="#9bb6c8" font-family="monospace" font-size="17">PROFILE.EXE / HARDIKKARI</text>
-  <text x="40" y="142" fill="#f3f7fb" font-family="monospace" font-size="47" font-weight="bold">HARDIK KARI</text>
-  <text x="42" y="178" fill="#39d98a" font-family="monospace" font-size="20">BUILD  /  BREAK  /  DEFEND_</text>
-  <rect x="683" y="117" width="165" height="56" rx="7" fill="#173328" stroke="#39d98a"/>
-  <circle cx="707" cy="145" r="7" fill="#39d98a"/>
-  <text x="724" y="151" fill="#c8f8df" font-family="monospace" font-size="17">SYSTEM READY</text>
-  <text x="41" y="222" fill="#8ca8ba" font-family="monospace" font-size="15">GAME DEV × CYBERSECURITY</text>
-  <text x="755" y="222" fill="#8ca8ba" font-family="monospace" font-size="15">LVL ∞</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
+<title id="title">Hardik Kari</title><desc id="desc">A purple and blue cyber-game banner with Hardik Kari's name and the words Build, Break, Learn, Defend.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#284c9f"/><stop offset=".55" stop-color="#514996"/><stop offset="1" stop-color="#85527e"/></linearGradient>
+<linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5fe0d1"/><stop offset="1" stop-color="#9988ff"/></linearGradient>
+</defs>
+<rect width="1200" height="290" fill="#0d1117"/>
+<rect width="1200" height="258" fill="url(#bg)"/>
+<path d="M0 250 C230 278 445 273 625 248 S985 224 1200 245 V290 H0Z" fill="#0d1117"/>
+<path d="M0 260 C230 288 445 282 625 258 S985 234 1200 255" fill="none" stroke="#a393ff" opacity=".45" stroke-width="2"/>
+<g opacity=".22" fill="none" stroke="#c8d7ff"><path d="M47 38h91v61H47zM1055 166h90v60h-90z"/><path d="M47 69h-28m119 0h28m-73-31V18m0 81v20M1055 196h-25m115 0h25"/></g>
+<g font-family="monospace" font-size="16" fill="#dbe6ff" opacity=".9"><text x="44" y="38">PROFILE // HARDIKKARI</text><text x="1006" y="38">LVL ∞</text></g>
+<text x="600" y="135" fill="#fff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="82" font-weight="800" letter-spacing="-2">Hardik Kari</text>
+<text x="600" y="185" fill="#f7f6ff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="600">Game development × secure software × useful tools</text>
+<rect x="417" y="209" width="366" height="35" rx="17" fill="#141b37" opacity=".85" stroke="url(#glow)"/>
+<text x="600" y="233" fill="#83eadb" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700">BUILD  /  BREAK  /  LEARN  /  DEFEND</text>
 </svg>
