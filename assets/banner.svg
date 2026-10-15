@@ -1,17 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
-<title id="title">Hardik Kari</title><desc id="desc">A purple and blue cyber-game banner with Hardik Kari's name and the words Build, Break, Learn, Defend.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Hardik Kari — Domain Expansion: Build Mode</title>
+<desc id="desc">Original Jujutsu Kaisen-inspired cyber banner with violet energy rings, ink-dark background, and Hardik Kari's name.</desc>
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#284c9f"/><stop offset=".55" stop-color="#514996"/><stop offset="1" stop-color="#85527e"/></linearGradient>
-<linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5fe0d1"/><stop offset="1" stop-color="#9988ff"/></linearGradient>
+  <radialGradient id="void" cx="52%" cy="48%" r="72%">
+    <stop stop-color="#34215d"/><stop offset=".52" stop-color="#161225"/><stop offset="1" stop-color="#09090f"/>
+  </radialGradient>
+  <linearGradient id="energy" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#7c3aed"/><stop offset=".52" stop-color="#c084fc"/><stop offset="1" stop-color="#ec4899"/>
+  </linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="11"/></filter>
 </defs>
-<rect width="1200" height="290" fill="#0d1117"/>
-<rect width="1200" height="258" fill="url(#bg)"/>
-<path d="M0 250 C230 278 445 273 625 248 S985 224 1200 245 V290 H0Z" fill="#0d1117"/>
-<path d="M0 260 C230 288 445 282 625 258 S985 234 1200 255" fill="none" stroke="#a393ff" opacity=".45" stroke-width="2"/>
-<g opacity=".22" fill="none" stroke="#c8d7ff"><path d="M47 38h91v61H47zM1055 166h90v60h-90z"/><path d="M47 69h-28m119 0h28m-73-31V18m0 81v20M1055 196h-25m115 0h25"/></g>
-<g font-family="monospace" font-size="16" fill="#dbe6ff" opacity=".9"><text x="44" y="38">PROFILE // HARDIKKARI</text><text x="1006" y="38">LVL ∞</text></g>
-<text x="600" y="135" fill="#fff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="82" font-weight="800" letter-spacing="-2">Hardik Kari</text>
-<text x="600" y="185" fill="#f7f6ff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="600">Game development × secure software × useful tools</text>
-<rect x="417" y="209" width="366" height="35" rx="17" fill="#141b37" opacity=".85" stroke="url(#glow)"/>
-<text x="600" y="233" fill="#83eadb" text-anchor="middle" font-family="monospace" font-size="17" font-weight="700">BUILD  /  BREAK  /  LEARN  /  DEFEND</text>
+<rect width="1200" height="320" fill="url(#void)"/>
+<path d="M0 294L190 271 349 302 536 260 733 306 931 268 1200 298V320H0Z" fill="#08090e"/>
+<g fill="none" stroke="url(#energy)" transform="translate(605 145)">
+  <circle r="178" stroke-width="34" opacity=".18" filter="url(#blur)"/>
+  <circle r="178" stroke-width="2" opacity=".5"/>
+  <circle r="133" stroke-width="2" opacity=".62" stroke-dasharray="7 11"/>
+  <circle r="92" stroke-width="1.5" opacity=".42"/>
+  <path d="M-196 0h392M0-195v390M-139-139l278 278M139-139l-278 278" opacity=".25"/>
+</g>
+<g stroke="#c084fc" stroke-width="3" opacity=".48">
+  <path d="M45 62l98 23-58 18 126 21M986 44l-77 27 63 23-102 24"/>
+  <path d="M24 238l151-47-58 49 96-16M1170 230l-113-38 44 44-115-25"/>
+</g>
+<g fill="#e9d5ff" font-family="monospace" font-size="16" letter-spacing="2">
+  <text x="38" y="37">DOMAIN // HARDIKKARI</text>
+  <text x="989" y="37">CURSED CODE 01</text>
+</g>
+<text x="600" y="145" fill="#ffffff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="83" font-weight="800" letter-spacing="-2">Hardik Kari</text>
+<text x="600" y="193" fill="#eadcff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="600">Game development × security-minded software</text>
+<rect x="357" y="221" width="486" height="42" rx="21" fill="#110d1b" stroke="#b364ee" stroke-width="2"/>
+<text x="600" y="248" fill="#e6b8ff" text-anchor="middle" font-family="monospace" font-size="19" font-weight="700" letter-spacing="1">DOMAIN EXPANSION: BUILD MODE</text>
+<path d="M25 282h284M890 282h284" stroke="url(#energy)" stroke-width="2" opacity=".65"/>
 </svg>

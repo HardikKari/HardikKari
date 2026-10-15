@@ -1,20 +1,22 @@
 <div align="center">
 
-![Hardik Kari — game developer and security-minded builder](assets/banner.svg)
+![Hardik Kari — Jujutsu Kaisen-inspired developer domain](assets/banner.svg)
 
-# Hi there, I'm Hardik 👋
+# Welcome to my domain 👋
 
 ### Game developer · Security-minded builder · Creative engineer
 
-[![Play recall](https://img.shields.io/badge/PLAY_RECALL-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://hardikkari.github.io/recall/)
-[![Explore projects](https://img.shields.io/badge/EXPLORE_PROJECTS-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HardikKari?tab=repositories)
-[![Latest builds](https://img.shields.io/badge/LATEST_BUILDS-1E9E8F?style=for-the-badge&logo=githubactions&logoColor=white)](#-latest-builds)
+*Jujutsu Kaisen-inspired visuals. Real projects, real code.*
+
+[![Play recall](https://img.shields.io/badge/PLAY_RECALL-9333EA?style=for-the-badge&logo=github&logoColor=white)](https://hardikkari.github.io/recall/)
+[![Explore projects](https://img.shields.io/badge/MISSION_BOARD-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HardikKari?tab=repositories)
+[![Latest builds](https://img.shields.io/badge/LATEST_BUILDS-B91C65?style=for-the-badge&logo=githubactions&logoColor=white)](#-latest-builds)
 
 </div>
 
 ---
 
-## About me
+## My domain · About me
 
 <table>
 <tr>
@@ -37,7 +39,7 @@ Right now I'm also working on **Campus Flow**, an early private-beta college pla
 </tr>
 </table>
 
-## GitHub stats
+## Power levels · GitHub stats
 
 <div align="center">
 
@@ -47,7 +49,7 @@ Right now I'm also working on **Campus Flow**, an early private-beta college pla
 
 The stats card is generated from my public repositories by the [profile update workflow](.github/workflows/update-profile.yml). GitHub's full contribution calendar is also available [on my profile](https://github.com/HardikKari#user-activity-overview).
 
-## Where my work lives
+## Domain map · Where my work lives
 
 <div align="center">
 
@@ -76,7 +78,7 @@ Four projects are showcased here, one from each area. This chart groups the feat
 
 My [GitHub contribution calendar](https://github.com/HardikKari#user-activity-overview) shows the full activity history. The live feed below highlights my most recently pushed public projects.
 
-## Featured projects
+## Missions · Featured projects
 
 ### 🎮 318 Roadrunner
 
@@ -100,7 +102,7 @@ A JavaFX community calendar for creating, browsing, and RSVPing to local events.
 
 An early private-beta college planner that turns schedules and PDF or DOCX syllabi into an organized semester: courses, deadlines, tasks, study plans, calendar events, and reminders.
 
-## 🧰 Tech I use
+## 🧰 My toolkit
 
 | Layer | Tools |
 | :--- | :--- |
@@ -133,6 +135,7 @@ Updated daily from public GitHub repositories. Pick a project to inspect what ch
 
 <div align="center">
 
-**BUILD · BREAK · LEARN · DEFEND**
+**BUILD · BREAK · LEARN · DEFEND**<br/>
+*Domain Expansion: Build Mode*
 
 </div>

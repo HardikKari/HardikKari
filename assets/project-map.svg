@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-labelledby="title desc">
 <title id="title">Where my work lives</title><desc id="desc">A project map linking Hardik Kari to game development, learning tools, community apps, and planning.</desc>
-<rect width="1000" height="420" rx="18" fill="#0d1117"/>
-<g stroke-width="4" fill="none"><path d="M500 210L220 95" stroke="#7d7af2"/><path d="M500 210L780 95" stroke="#47b9da"/><path d="M500 210L220 330" stroke="#d780b7"/><path d="M500 210L780 330" stroke="#47b89d"/></g>
-<circle cx="500" cy="210" r="81" fill="#394c86" stroke="#938cff" stroke-width="4"/>
+<rect width="1000" height="420" rx="18" fill="#0a0910"/>
+<g stroke-width="4" fill="none"><path d="M500 210L220 95" stroke="#ad6df0"/><path d="M500 210L780 95" stroke="#d47ce8"/><path d="M500 210L220 330" stroke="#ef8ebc"/><path d="M500 210L780 330" stroke="#9a62d6"/></g>
+<circle cx="500" cy="210" r="81" fill="#51266f" stroke="#c084fc" stroke-width="4"/>
 <text x="500" y="201" fill="#fff" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="bold">Hardik</text>
 <text x="500" y="230" fill="#c8d7ff" text-anchor="middle" font-family="monospace" font-size="17">Kari</text>
 <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle" font-weight="bold">
-<rect x="72" y="38" width="300" height="105" rx="14" fill="#302b62" stroke="#8c83ff" stroke-width="3"/><text x="222" y="80" fill="#fff" font-size="21">Game development</text><text x="222" y="110" fill="#c4bcff" font-size="18">318 Roadrunner</text>
-<rect x="628" y="38" width="300" height="105" rx="14" fill="#19475d" stroke="#58cdea" stroke-width="3"/><text x="778" y="80" fill="#fff" font-size="21">Learning tools</text><text x="778" y="110" fill="#a9edff" font-size="18">recall</text>
-<rect x="72" y="277" width="300" height="105" rx="14" fill="#563052" stroke="#df88c6" stroke-width="3"/><text x="222" y="319" fill="#fff" font-size="21">Community apps</text><text x="222" y="349" fill="#ffd2ec" font-size="18">UNITE</text>
-<rect x="628" y="277" width="300" height="105" rx="14" fill="#1a4c46" stroke="#69d6b8" stroke-width="3"/><text x="778" y="319" fill="#fff" font-size="21">Student planning</text><text x="778" y="349" fill="#b9ffe9" font-size="18">Campus Flow</text>
+<rect x="72" y="38" width="300" height="105" rx="14" fill="#35194d" stroke="#a855f7" stroke-width="3"/><text x="222" y="80" fill="#fff" font-size="21">Game development</text><text x="222" y="110" fill="#e0b4ff" font-size="18">318 Roadrunner</text>
+<rect x="628" y="38" width="300" height="105" rx="14" fill="#502366" stroke="#d68bee" stroke-width="3"/><text x="778" y="80" fill="#fff" font-size="21">Learning tools</text><text x="778" y="110" fill="#f0caff" font-size="18">recall</text>
+<rect x="72" y="277" width="300" height="105" rx="14" fill="#612548" stroke="#ef8ebc" stroke-width="3"/><text x="222" y="319" fill="#fff" font-size="21">Community apps</text><text x="222" y="349" fill="#ffd2e9" font-size="18">UNITE</text>
+<rect x="628" y="277" width="300" height="105" rx="14" fill="#382355" stroke="#a47aff" stroke-width="3"/><text x="778" y="319" fill="#fff" font-size="21">Student planning</text><text x="778" y="349" fill="#dfc8ff" font-size="18">Campus Flow</text>
 </g>
 </svg>

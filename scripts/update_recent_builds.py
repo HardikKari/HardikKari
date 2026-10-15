@@ -66,20 +66,20 @@ def update_stats(user, repos):
     for index, (label, value) in enumerate(metrics):
         x = 30 + index * 245
         cards.append(
-            f'<rect x="{x}" y="82" width="225" height="130" rx="14" fill="#172238" stroke="#415b84"/>'
-            f'<text x="{x+18}" y="118" fill="#8fb0ce" font-family="monospace" font-size="14">{html.escape(label)}</text>'
-            f'<text x="{x+18}" y="170" fill="#f3f7ff" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="bold">{html.escape(value)}</text>'
-            f'<path d="M{x+18} 188h75" stroke="#69dbc7" stroke-width="4" stroke-linecap="round"/>'
+            f'<rect x="{x}" y="82" width="225" height="130" rx="14" fill="#231733" stroke="#603b83"/>'
+            f'<text x="{x+18}" y="118" fill="#bea4d5" font-family="monospace" font-size="14">{html.escape(label)}</text>'
+            f'<text x="{x+18}" y="170" fill="#f7efff" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="bold">{html.escape(value)}</text>'
+            f'<path d="M{x+18} 188h75" stroke="#da8cff" stroke-width="4" stroke-linecap="round"/>'
         )
     svg = (
         '<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="title desc">'
         '<title id="title">Hardik Kari public GitHub stats</title>'
         '<desc id="desc">Public repository count, detected languages, latest project push, and account creation date.</desc>'
-        '<rect width="1000" height="240" rx="18" fill="#0d1117"/>'
-        '<rect x="10" y="10" width="980" height="220" rx="14" fill="#101a2a" stroke="#6c75ed" stroke-width="2"/>'
-        '<circle cx="34" cy="38" r="6" fill="#69dbc7"/>'
-        '<text x="50" y="45" fill="#cfd7ff" font-family="monospace" font-size="19" font-weight="bold">PUBLIC REPOSITORY SIGNAL</text>'
-        '<text x="760" y="45" fill="#81a1bd" font-family="monospace" font-size="14">AUTO-REFRESHED DAILY</text>'
+        '<rect width="1000" height="240" rx="18" fill="#0a0910"/>'
+        '<rect x="10" y="10" width="980" height="220" rx="14" fill="#171125" stroke="#9d4edd" stroke-width="2"/>'
+        '<circle cx="34" cy="38" r="6" fill="#da8cff"/>'
+        '<text x="50" y="45" fill="#ead7ff" font-family="monospace" font-size="19" font-weight="bold">DOMAIN SIGNAL // GITHUB</text>'
+        '<text x="760" y="45" fill="#a88cbd" font-family="monospace" font-size="14">AUTO-REFRESHED DAILY</text>'
         + "".join(cards)
         + "</svg>\n"
     )
