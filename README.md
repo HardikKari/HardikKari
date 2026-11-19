@@ -117,9 +117,9 @@ An early private-beta college planner that turns schedules and PDF or DOCX sylla
 Updated daily from public GitHub repositories. Pick a project to inspect what changed recently.
 
 <!-- RECENT_BUILDS_START -->
+- [portfolio](https://github.com/HardikKari/portfolio) — Explore the source code.
 - [318-roadrunner](https://github.com/HardikKari/318-roadrunner) — A three-lane endless runner built with Unity and C#.
 - [recall](https://github.com/HardikKari/recall) — Spaced repetition flashcards in vanilla JavaScript — no framework, no build step. SM-2 scheduling, paste or upload notes to generate decks.
-- [unite](https://github.com/HardikKari/unite) — Explore the source code.
 <!-- RECENT_BUILDS_END -->
 
 <details>
